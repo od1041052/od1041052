@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me ...Gmail
+- 😄 Pronouns: ...I am a dude.
+- ⚡ Fun fact: ...I skipped Pre-K
 
 <!---
 od1041052/od1041052 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
