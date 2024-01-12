@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...Well, programming and software
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Gmail
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...I am a dude.
 - ⚡ Fun fact: ...I skipped Pre-K
 
 <!---
